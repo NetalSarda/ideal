@@ -1,4 +1,5 @@
 @extends('layout.app')
 @section('appContents')
-    <h1>About</h1>
+    <h1>          This is About section </h1>
+    <p class="p-2 m-2">In June 1975, Prime Minister Indira Gandhi declared a state of emergency in India that lasted until 1977. During this period, known as "the Emergency", many of her political opponents were jailed and opposition groups were banned.[88][89] Modi was appointed general secretary of the "Gujarat Lok Sangharsh Samiti", an RSS committee co-ordinating opposition to the Emergency in Gujarat. Shortly afterwards, the RSS was banned.[90] Modi was forced to go underground in Gujarat and frequently travelled in disguise to avoid arrest, once dressing as a monk and once as a Sikh.[91] He became involved in the printing of pamphlets opposing the government, sending them to Delhi and organising demonstrations.[92][93] He was also involved with creating a network of safe houses for individuals who were wanted by the government, and in raising funds for political refugees and activists.[94] During this period, Modi wrote a Gujarati-language book titled Sangharsh Ma Gujarat (In the Struggles of Gujarat), which describes events during the Emergency.[95][96] While in this role, Modi met trade unionist and socialist activist George Fernandes and several other national political figures</p>
 @endsection
